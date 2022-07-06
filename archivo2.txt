@@ -1,2 +1,0 @@
-segundo mensaje a Git de prueba
-tercer mensaje en este archivo
